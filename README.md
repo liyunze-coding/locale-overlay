@@ -11,4 +11,4 @@ This is the locale overlay that I use for my co-working Twitch stream.
 
 ## Self-advertisement
 
-I stream on [twitch](https://twitch.tv/RyanPython)
+I stream on [twitch](https://twitch.tv/RyanPython), come check it out!
